@@ -3,8 +3,8 @@ let button = document.querySelector("button");
 let img = document.querySelector("img");
 
 // 1. Press the button on the webpage to change it up! Take notice of what happens.
-// - What do you think innerHTML does?
-// - What do you think .src does?
+// - What do you think innerHTML does?chnages the text
+// - What do you think .src does? changes the images
 
 
 // 2. Try the following:
